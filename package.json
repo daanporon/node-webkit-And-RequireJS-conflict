@@ -1,0 +1,23 @@
+{
+    "name": "Demo",
+    "main": "index.html",
+    "version": "0.0.1",
+    "maintainers": [{
+        "name": "Kunstmaan",
+        "email": "hello@kunstmaan.be",
+        "web": "http://www.kunstmaan.be"
+    }],
+    "dependencies": {},
+    "window": {
+        "toolbar": true,
+        "width": 1010,
+        "height": 660,
+        "position": "center",
+        "min_width": 1010,
+        "min_height": 660
+    },
+    "webkit": {
+        "plugin": true
+    },
+    "nodejs": true
+}
